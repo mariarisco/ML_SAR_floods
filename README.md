@@ -25,4 +25,4 @@ Dataset structure:
 
 ![Workflow1](https://github.com/mariarisco/ML_SAR_floods/blob/main/src/img/Workflow1.png)
 
-|[Workflow2](https://github.com/mariarisco/ML_SAR_floods/blob/main/src/img/Workflow2.png)
+![Workflow2](https://github.com/mariarisco/ML_SAR_floods/blob/main/src/img/Workflow2.png)
