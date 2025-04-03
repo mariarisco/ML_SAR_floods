@@ -2,11 +2,9 @@
 
 As a result of climate change, extreme hydrometeorological events are becoming increasingly frequent. Flood rapid mapping products play an important role in informing flood emergency response and management. These maps are generated quickly from remote sensing data during or after an event to show the extent of the flooding. They provide important information for emergency response and damage assessment. 
 
-[IEEE Data fusion contest 2024] (https://www.grss-ieee.org/community/technical-committees/2024-ieee-grss-data-fusion-contest/) 
-
 # Major Datasets Used
 
-Multi-source geospatial datasets provided by the [Institute of electrical and Electronics Engineers](https://www.ieee.org/) withing the framework of the 2024 IEEE GRSS Data Fusion Contest - Flood Rapid Mapping. 
+Multi-source geospatial datasets provided by the [Institute of electrical and Electronics Engineers](https://www.ieee.org/) withing the framework of the 2024 [IEEE GRSS Data Fusion Contest - Flood Rapid Mapping](https://www.grss-ieee.org/community/technical-committees/2024-ieee-grss-data-fusion-contest/). 
 
 Public access to data: [IEEE DataPort](https://ieee-dataport.org/competitions/2024-ieee-grss-data-fusion-contest-flood-rapid-mapping)
 
