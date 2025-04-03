@@ -26,3 +26,18 @@ Dataset structure:
 ![Workflow1](https://github.com/mariarisco/ML_SAR_floods/blob/main/src/img/Workflow1.png)
 
 ![Workflow2](https://github.com/mariarisco/ML_SAR_floods/blob/main/src/img/Workflow2.png)
+
+# Repo structure
+
+```bash
+ML_SAR_floods/
+│── src/                    # Main source code directory
+│   │── data/               # Contains a sample of the images datasets for training and testing
+│   │── models/             # Stores machine learning / deep learning models
+│   │── notebooks/          # Draft notebooks
+│   │── result_notebooks/   # Final notebooks for model development (Machine Learning and MLP models)
+│   │── utils/              # Utility scripts for shared functionality
+│── .gitignore              # Specifies files and folders to be ignored by Git
+│── environment.yml         # Conda environment file with dependencies
+│── README.md               # Project documentation and setup instructions
+```
