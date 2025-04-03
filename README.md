@@ -8,11 +8,11 @@ Multi-source geospatial datasets provided by the [Institute of electrical and El
 
 Public access to data: [IEEE DataPort](https://ieee-dataport.org/competitions/2024-ieee-grss-data-fusion-contest-flood-rapid-mapping)
 
-Dataset structure: 
+Dataset structure: 1061 images with 6 bands (.tif) + 1061 binary images with 1 band (.png): 0 - No Water; 1 - Water (positive class)
 
 ![Data structure](https://github.com/mariarisco/ML_SAR_floods/blob/main/src/img/Data_structure.png)
 
-- Copernicus/Sentinel-1: C-band synthetic aperture radar, 10m resolution (VV & VH backscattering)
+- Copernicus/Sentinel-1: C-band synthetic aperture radar, 10 m resolution (VV & VH backscattering)
 - [Copernicus DEM](https://dataspace-copernicus-eu.translate.goog/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sc) (30 m): it is a Digital Surface Model (DSM) that represents the surface of the Earth including buildings, infrastructure and vegetation
 - [MERIT](https://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/) (90 m): it is a digital terrain model widely used in the hydrology scientific community
 - [Global Surface Water Occurrence](https://global-surface-water.appspot.com/): maps the location and temporal distribution of water surfaces at the global scale over the past 32 years and provides statistics on the extent and change of those water surfaces
