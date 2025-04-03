@@ -14,14 +14,15 @@ Dataset structure:
 
 ![Data structure](https://github.com/mariarisco/ML_SAR_floods/blob/main/src/img/Data_structure.png)
 
-
 - Copernicus/Sentinel-1: C-band synthetic aperture radar, 10m resolution (VV & VH backscattering)
 - [Copernicus DEM](https://dataspace-copernicus-eu.translate.goog/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sc) (30 m): it is a Digital Surface Model (DSM) that represents the surface of the Earth including buildings, infrastructure and vegetation
 - [MERIT](https://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/) (90 m): it is a digital terrain model widely used in the hydrology scientific community
 - [Global Surface Water Occurrence](https://global-surface-water.appspot.com/): maps the location and temporal distribution of water surfaces at the global scale over the past 32 years and provides statistics on the extent and change of those water surfaces
 - [ESA WorldCover](https://esa-worldcover.org/en/data-access): global land cover product at 10 m resolution
-
 - Labeled training data: Flood extent labeled by the Copernicus Emergency Management Service
 
 # Technical solution
 
+![Workflow1](https://github.com/mariarisco/ML_SAR_floods/blob/main/src/img/Workflow1.png)
+
+|[Workflow2](https://github.com/mariarisco/ML_SAR_floods/blob/main/src/img/Workflow2.png)
