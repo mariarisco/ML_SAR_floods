@@ -1,0 +1,17 @@
+env/
+**/__pycache__/
+README_ex.md
+AEI.pdf
+src/notebooks/MLP/
+src/notebooks/XGB/
+src/notebooks/0-Guia_Proyecto_ML.ipynb
+src/notebooks/Floods_model_v1.ipynb
+src/data_sample/X_0.01.pkl
+src/data_sample/X_0.10.pkl
+src/data_sample/X_0.20.pkl
+src/data_sample/X_1.00.pkl
+src/data_sample/y_0.01.pkl
+src/data_sample/y_0.10.pkl
+src/data_sample/y_0.20.pkl
+src/data_sample/y_1.00.pkl
+src/utils/datos.py
